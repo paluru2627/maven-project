@@ -1,0 +1,21 @@
+# TODO
+
+- show CLI some love
+- add javadoc
+- remove weird en passant bug
+- add move counter
+- add move history?
+- make a.i. able to find checkmate (done, check if still buggy)
+- add a way to interrupt
+- change position representation
+- add numbers and characters to board
+- fix window sizes
+- undo needs to update checkmate/stalemate/...
+- add site report
+- add marmor texture
+- add white A.I.
+- add choose option for promotions
+- teach A.I. double / triple pawn rule
+- improve A.I. speed
+- fix Game#equals()
+- fix Game#hashCode()
